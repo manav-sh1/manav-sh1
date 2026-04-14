@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Manav+Sharma;Backend+Developer+%26+Data+Scientist;Building+Scalable+ML+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Manav+Sharma;Backend+Developer+%26+Data+Scientist;Building+Scalable+ML+Systems" alt="Typing SVG" />
 
 <p align="center">
-  <strong>Building robust backends and exploring the intersection of Artificial Learning & Machine Learning. </strong>
+  <strong>Building robust backends and exploring the intersection of Artificial Intelligence & Machine Learning.</strong>
 </p>
 
 <p align="center">
@@ -23,19 +23,19 @@
     <td align="center" width="200"><strong>DevOps</strong></td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
     </td>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
     </td>
