@@ -39,7 +39,7 @@ I’m Manav — a Data Science and Machine Learning professional focused on buil
     <h3>🐳 DevOps & Tools 🐳</h3>  
       <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,githubactions,aws,linux,bash">
     <h3>🌱 Exploring 🧠</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,redis,gcp">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=redis,gcp">
 </div>
 
 ---
