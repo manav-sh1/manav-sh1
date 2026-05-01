@@ -7,13 +7,10 @@
 
 <h3>About me:</h3>
 <div align="left">
+  
+I work on machine learning systems and backend-heavy AI applications. I like building things end-to-end; from handling data and training models to exposing them through APIs and deploying them.
 
-I’m Manav — a Data Science and Machine Learning professional focused on building end-to-end systems and applied AI solutions. Currently exploring new opportunities, I specialize in bridging the gap between complex models and production constraints.
-
-- **Applied AI & RAG** — Implementing RAG systems with Elasticsearch and LLM-based automation for recruitment workflows.
-- **Backend & Full-Stack** — Building scalable FastAPI backends and deploying full-stack apps (React/Python) on AWS with CI/CD.
-- **Data Science** — Experienced in ML pipelines, feature engineering, and deep learning implementations using PyTorch and Scikit-learn.
-- **Infrastructure** — Hands-on with Docker, PostgreSQL, and API integrations to reduce manual operational effort.
+Lately, I’ve been spending time on retrieval-based systems, LLM workflows, and automation. I’m more interested in making things work reliably in real scenarios than just building demos.
 </div>
 
   <picture>
