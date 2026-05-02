@@ -20,11 +20,18 @@ Lately, I’ve been spending time on retrieval-based systems, LLM workflows, and
   </picture></br>
 </div>
 
-<div align=center> 
-  <h2>📊 Stats 📊</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=manav-sh1&show_icons=true&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manav-sh1&layout=compact&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manav-sh1&theme=tokyonight&hide_border=true">
+<div align="center"> 
+  <h2>📊 Stats</h2>
+
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manav-sh1&theme=algolia">
+
+  <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manav-sh1&theme=algolia">
+
+  <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manav-sh1&theme=algolia">
+
+  <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manav-sh1&theme=algolia">
+
+  <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manav-sh1&theme=algolia">
 </div>
 
 <div align=center>
