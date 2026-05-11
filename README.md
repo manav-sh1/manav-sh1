@@ -49,24 +49,6 @@ Lately, I’ve been spending time on retrieval-based systems, LLM workflows, and
 ---
 
 <div align="center">
-  <h2>🔭 Mission Control</h2>
-  <table align="center">
-    <tr>
-      <td>🔭 <b>Currently:</b> Finalizing Backend internship & seeking AI/ML opportunities.</td>
-    </tr>
-    <tr>
-      <td>🌱 <b>Learning:</b> Quantitative Finance strategies and System Design.</td>
-    </tr>
-    <tr>
-      <td>👯 <b>Collabs:</b> Open to Open Source ML projects or Backend optimization.</td>
-    </tr>
-    <tr>
-      <td>💬 <b>Ask me about:</b> Python, Docker networking, or Gurkha trousers.</td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
   <br>
   <a href="https://linkedin.com/in/msmanav19"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=manav-sh1&color=7AA2F7&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
