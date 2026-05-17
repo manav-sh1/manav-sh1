@@ -43,7 +43,7 @@ Lately, I’ve been spending time on retrieval-based systems, LLM workflows, and
     <h3>🐳 DevOps & Tools 🐳</h3>  
       <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,githubactions,aws,linux,bash">
     <h3>🌱 Exploring 🧠</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=redis,gcp">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=redis">
 </div>
 
 ---
