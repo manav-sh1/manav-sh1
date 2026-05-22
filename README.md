@@ -9,8 +9,6 @@
 <div align="left">
   
 I work on machine learning systems and backend-heavy AI applications. I like building things end-to-end; from handling data and training models to exposing them through APIs and deploying them.
-
-Lately, I’ve been spending time on retrieval-based systems, LLM workflows, and automation. I’m more interested in making things work reliably in real scenarios than just building demos.
 </div>
 
   <picture>
